@@ -3,7 +3,7 @@ def greet_characters(array)
   #
   # Print a custom greeting for each element
   array.each do
-    puts "Hello" + {$}
+    puts "Hello + #{}"
 end
 
 def list_dwarves(array)
